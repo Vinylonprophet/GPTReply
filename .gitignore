@@ -40,3 +40,9 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# API Design
+/config
+/src/app/service/config
+/src/app/service/controller
+/src/app/service/core-services
